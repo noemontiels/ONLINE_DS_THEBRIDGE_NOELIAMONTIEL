@@ -1,0 +1,13 @@
+problemas_a_resolver = [
+			'Monitoreo de erupciones volcánicas',
+			'Desarrollo eficaz de infraestructura urbana',
+			'Predicción del comportamiento de Bitcoin',
+			'Detección de fraude con tarjetas bancarias'
+			'Mejora en la seguridad urbana']
+
+conjuntos_de_datos =   [
+			'Parámetros clave de la actividad terrestre, oceánica y atmosférica',
+			'Afluencia de gente por zonas en ciudades actuales',
+			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
+			'Comportamiento de gasto habitual del cliente, incluyendo el mapeo de la ubicación de esos gastos',
+			'Historial y mapeo de delincuencia y delitos cometidos en los últimos 10 años']
