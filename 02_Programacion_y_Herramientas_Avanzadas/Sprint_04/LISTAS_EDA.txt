@@ -3,7 +3,8 @@ problemas_a_resolver = [
 			'Desarrollo eficaz de infraestructura urbana',
 			'Predicción del comportamiento de Bitcoin',
 			'Detección de fraude con tarjetas bancarias'
-			'Mejora en la seguridad urbana']
+			'Mejora en la seguridad urbana'
+			'Predicción de precios de propiedades con imágenes satélite']
 
 conjuntos_de_datos =   [
 			'Parámetros clave de la actividad terrestre, oceánica y atmosférica',
