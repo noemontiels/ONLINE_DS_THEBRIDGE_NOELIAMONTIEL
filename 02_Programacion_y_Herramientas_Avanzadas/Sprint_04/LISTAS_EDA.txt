@@ -1,14 +1,13 @@
 problemas_a_resolver = [
-			'Monitoreo de erupciones volcánicas',
 			'Impacto del BIM (Building Information Modeling) en la Gestión de Proyectos',
-			'Predicción del comportamiento de Bitcoin',
 			'Detección de fraude con tarjetas bancarias',
+			'Predicción del comportamiento de Bitcoin',
 			'Eficiencia Energética en Edificios',
-			'Predicción de precios de propiedades con imágenes satélite']
+			'Monitoreo de erupciones volcánicas']
 
 conjuntos_de_datos =   [
-			'Parámetros clave de la actividad terrestre, oceánica y atmosférica',
 			'Precio inicial - final, tiempo de construcción... de distintas construcciones que utilizado o no procesos BIM',
-			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
 			'Comportamiento de gasto habitual del cliente, incluyendo el mapeo de la ubicación de esos gastos',
-			'Precio inicial - final de distintas construcciones que han tenido o no en cuenta la eficiencia energética']
+			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
+			'Precio inicial - final de distintas construcciones que han tenido o no en cuenta la eficiencia energética',
+			'Técnicas de monitoreo utilizadas a lo largo del tiempo, vidas perdidas en las erupciones, tiempo de reconstrucción del territorio...']
