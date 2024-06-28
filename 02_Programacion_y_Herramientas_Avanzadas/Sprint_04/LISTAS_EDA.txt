@@ -1,5 +1,5 @@
 problemas_a_resolver = [
-			'Impacto del BIM (Building Information Modeling) en la Gestión de Proyectos',
+			'Impacto del BIM (Building Information Modeling) en la Gestión de proyectos´arquitectónicos',
 			'Detección de fraude con tarjetas bancarias',
 			'Predicción del comportamiento de Bitcoin',
 			'Eficiencia Energética en Edificios',
