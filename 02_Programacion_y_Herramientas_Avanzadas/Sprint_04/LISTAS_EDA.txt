@@ -1,13 +1,16 @@
 problemas_a_resolver = [
-			'Impacto del BIM (Building Information Modeling) en la Gestión de proyectos´arquitectónicos',
+			'Análisis de la volatilidad de precios de Bitcoin y su correlación con otras criptomonedas',
+			'La eficiencia de la automatización en logística',
 			'Detección de fraude con tarjetas bancarias',
 			'Predicción del comportamiento de Bitcoin',
-			'Eficiencia Energética en Edificios',
-			'Monitoreo de erupciones volcánicas']
+			'Impacto del BIM (Building Information Modeling) en la Gestión de proyectos arquitectónicos',
+			'Eficiencia Energética en Edificios']
 
 conjuntos_de_datos =   [
-			'Precio inicial - final, tiempo de construcción... de distintas construcciones que utilizado o no procesos BIM',
+			'Historial de datos de precios de Bitcoin, Ethereum y Litecoin u otras criptomonedas que queramos estudiar',
+			'Datasets sobre automatización en logística y tiempos de procesamiento, datos internos sobre tiempos de procesamiento, costos operativos y 			rendimiento de sistemas automatizados',
 			'Comportamiento de gasto habitual del cliente, incluyendo el mapeo de la ubicación de esos gastos',
 			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
+			'Precio inicial - final, tiempo de construcción... de distintas construcciones que utilizado o no procesos BIM',
 			'Precio inicial - final de distintas construcciones que han tenido o no en cuenta la eficiencia energética',
-			'Técnicas de monitoreo utilizadas a lo largo del tiempo, vidas perdidas en las erupciones, tiempo de reconstrucción del territorio...']
+			]
