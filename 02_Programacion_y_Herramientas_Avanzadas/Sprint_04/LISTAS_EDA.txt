@@ -1,5 +1,6 @@
 problemas_a_resolver = [
 			'Análisis de la volatilidad de precios de Bitcoin y su correlación con otras criptomonedas',
+			'Análisis de costos de producción y margen de beneficio de zapatillas de Nike',
 			'La eficiencia de la automatización en logística',
 			'Detección de fraude con tarjetas bancarias',
 			'Predicción del comportamiento de Bitcoin',
@@ -8,6 +9,7 @@ problemas_a_resolver = [
 
 conjuntos_de_datos =   [
 			'Historial de datos de precios de Bitcoin, Ethereum y Litecoin u otras criptomonedas que queramos estudiar',
+			'Bases de datos comerciales como Statista o IBISWorld',
 			'Datasets sobre automatización en logística y tiempos de procesamiento, datos internos sobre tiempos de procesamiento, costos operativos y 			rendimiento de sistemas automatizados',
 			'Comportamiento de gasto habitual del cliente, incluyendo el mapeo de la ubicación de esos gastos',
 			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
