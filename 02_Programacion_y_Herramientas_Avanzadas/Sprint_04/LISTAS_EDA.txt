@@ -12,7 +12,7 @@ conjuntos_de_datos =   [
 			'Informes anuales de Nike que pueden contener datos sobre costos y márgenes. Bases de datos comerciales (Fuentes de datos: webscraping/APIs - Amazon, eBay, StockX -, Statista, IBISWorld'),
 			'Datasets sobre automatización en logística y tiempos de procesamiento, datos internos sobre tiempos de procesamiento, costos operativos y rendimiento de sistemas automatizados (Fuentes de datos: Kaggle, DHL, FedEx, Amazon)',
 			'Comportamiento de gasto habitual del cliente, incluyendo el mapeo de la ubicación de esos gastos',
-			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
+			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado (Fuentes de datos: Coinbase Pro API, Yahoo Finance, CoinGecko, CoinMarketCap)',
 			'Precio inicial - final, tiempo de construcción... de distintas construcciones que utilizado o no procesos BIM',
 			'Precio inicial - final de distintas construcciones que han tenido o no en cuenta la eficiencia energética',
 			]
