@@ -10,7 +10,7 @@ problemas_a_resolver = [
 conjuntos_de_datos =   [
 			'Historial de datos de precios de Bitcoin, Ethereum y Litecoin u otras criptomonedas que queramos estudiar (Fuentes de datos: Coinbase Pro API, Yahoo Finance, CoinGecko, CoinMarketCap)',
 			'Informes anuales de Nike que pueden contener datos sobre costos y márgenes. Bases de datos comerciales (Fuentes de datos: webscraping/APIs - Amazon, eBay, StockX -, Statista, IBISWorld'),
-			'Datasets sobre automatización en logística y tiempos de procesamiento, datos internos sobre tiempos de procesamiento, costos operativos y 			rendimiento de sistemas automatizados',
+			'Datasets sobre automatización en logística y tiempos de procesamiento, datos internos sobre tiempos de procesamiento, costos operativos y 			rendimiento de sistemas automatizados (Fuentes de datos: Kaggle, DHL, FedEx, Amazon)',
 			'Comportamiento de gasto habitual del cliente, incluyendo el mapeo de la ubicación de esos gastos',
 			'Precio de bitcoin en los últimos 10 años e hitos importantes que hayan afectado',
 			'Precio inicial - final, tiempo de construcción... de distintas construcciones que utilizado o no procesos BIM',
