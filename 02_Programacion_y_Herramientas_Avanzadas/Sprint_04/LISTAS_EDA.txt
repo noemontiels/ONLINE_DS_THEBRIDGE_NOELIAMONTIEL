@@ -1,6 +1,6 @@
 problemas_a_resolver = [
 			'Análisis de la volatilidad de precios de Bitcoin y su correlación con otras criptomonedas',
-			'Análisis de costos de producción y margen de beneficio de zapatillas de Nike',
+			'Análisis de costos de producción, demanda de compra y margen de beneficio de zapatillas de Nike',
 			'La eficiencia de la automatización en logística',
 			'Detección de fraude con tarjetas bancarias',
 			'Predicción del comportamiento de Bitcoin',
