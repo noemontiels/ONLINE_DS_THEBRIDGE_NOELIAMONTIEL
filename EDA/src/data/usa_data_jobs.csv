@@ -1,0 +1,443 @@
+Job_title,Rating,Company_name,Location,Headquarters,Founded,Sector,Average_salary,State,Region,Size_cat,Job_category,Revenue_cat
+Data Scientist,3.8,Tecolote Research,"Albuquerque, NM","Goleta, CA",1973,Aerospace & Defense,72000.0,New Mexico,south-west,M,Data Science and Research,M
+Healthcare Data Scientist,3.4,University of Maryland Medical System,"Linthicum, MD","Baltimore, MD",1984,Health Care,87500.0,Maryland,north-east,L,Data Science and Research,L
+Data Scientist,4.8,KnowBe4,"Clearwater, FL","Clearwater, FL",2010,Business Services,85000.0,Florida,south-east,M,Data Science and Research,M
+Data Scientist,3.8,PNNL,"Richland, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",76500.0,Washington,west,S,Data Science and Research,M
+Data Scientist,2.9,Affinity Solutions,"New York, NY","New York, NY",1998,Business Services,114500.0,New York,north-east,S,Data Science and Research,Unknown
+Data Scientist,3.4,CyrusOne,"Dallas, TX","Dallas, TX",2000,Real Estate,95000.0,Texas,south-west,S,Data Science and Research,L
+Data Scientist,4.1,ClearOne Advantage,"Baltimore, MD","Baltimore, MD",2008,Finance,73500.0,Maryland,north-east,M,Data Science and Research,Unknown
+Data Scientist,3.8,Logic20/20,"San Jose, CA","Seattle, WA",2005,Business Services,114000.0,California,west,S,Data Science and Research,S
+Research Scientist,3.3,Rochester Regional Health,"Rochester, NY","Rochester, NY",2014,Health Care,61000.0,New York,north-east,L,Data Science and Research,M
+Data Scientist,4.6,<intent>,"New York, NY","New York, NY",2009,Information Technology,140000.0,New York,north-east,S,Data Science and Research,M
+Data Scientist,3.5,Wish,"San Jose, CA","San Francisco, CA",2011,Retail,163500.0,California,west,M,Data Science and Research,L
+Data Scientist,4.1,ManTech,"Chantilly, VA","Herndon, VA",1968,Business Services,85000.0,Virginia,south-east,L,Data Science and Research,L
+Staff Data Scientist - Technology,3.2,Walmart,"Plano, TX","Bentonville, AR",1962,Retail,139000.0,Texas,south-west,L,Data Science and Research,XL
+Data Analyst,4.1,Yesler,"Seattle, WA","Seattle, WA",2012,Business Services,65500.0,Washington,west,S,Data Analysis,Unknown
+Data Scientist,3.7,Takeda Pharmaceuticals,"Cambridge, MA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,113500.0,Massachusetts,north-east,L,Data Science and Research,XL
+Data Engineer I,3.6,Audible,"Newark, NJ","Newark, NJ",1995,Media,146000.0,New Jersey,north-east,S,Data Engineering,Unknown
+"Scientist I/II, Biology",3.9,Blueprint Medicines,"Cambridge, MA","Cambridge, MA",2011,Biotech & Pharmaceuticals,102000.0,Massachusetts,north-east,S,Data Architecture and Modeling,XS
+Customer Data Scientist,4.3,h2o.ai,"Mountain View, CA","Mountain View, CA",2011,Information Technology,153500.0,California,west,S,Data Science and Research,Unknown
+Data Scientist - Health Data Analytics,4.2,Nuna,"San Francisco, CA","San Francisco, CA",2010,Information Technology,142500.0,California,west,S,Data Science and Research,Unknown
+Data Scientist,4.0,Pinnacol Assurance,"Denver, CO","Denver, CO",1915,Insurance,87500.0,Colorado,west,M,Data Science and Research,M
+Data Scientist,3.2,Porch,"Seattle, WA","Seattle, WA",2012,Information Technology,105500.0,Washington,west,S,Data Science and Research,Unknown
+Senior Data Scientist / Machine Learning,3.9,Health IQ,"Dallas, TX","Mountain View, CA",2013,Insurance,96000.0,Texas,south-west,S,Data Science and Research,Unknown
+Data Scientist - Quantitative,3.8,Truckstop.com,"Chicago, IL","New Plymouth, ID",1995,Transportation & Logistics,112500.0,Illinois,mid-west,M,Data Science and Research,Unknown
+Data Scientist,4.3,SMC 3,"Louisville, KY","Peachtree City, GA",1935,Transportation & Logistics,84000.0,Kentucky,south-east,S,Data Science and Research,S
+Data Scientist,4.0,Novetta,"Herndon, VA","Mc Lean, VA",2012,Information Technology,143000.0,Virginia,south-east,M,Data Science and Research,M
+Digital Health Data Scientist,4.0,Pfizer,"Cambridge, MA","New York, NY",1849,Biotech & Pharmaceuticals,86500.0,Massachusetts,north-east,L,Data Science and Research,XL
+Data Scientist,3.5,First Tech Federal Credit Union,"Hillsboro, OR","San Jose, CA",1952,Finance,99500.0,Oregon,west,S,Data Science and Research,M
+Associate Data Analyst,3.7,The Hanover Insurance Group,"Worcester, MA","Worcester, MA",1852,Insurance,47500.0,Massachusetts,north-east,L,Data Analysis,L
+Clinical Data Scientist,4.0,Pfizer,"Groton, CT","New York, NY",1849,Biotech & Pharmaceuticals,84000.0,Connecticut,north-east,L,Data Science and Research,XL
+Data Scientist,3.6,Amrock,"Detroit, MI","Detroit, MI",1997,Real Estate,96000.0,Michigan,mid-west,S,Data Science and Research,M
+Data Scientist / Machine Learning Expert,3.8,Novartis,"Cambridge, MA","Basel, Switzerland",1996,Biotech & Pharmaceuticals,114500.0,Massachusetts,north-east,L,Data Science and Research,XL
+Data Scientist,3.8,Juniper Networks,"Sunnyvale, CA","Sunnyvale, CA",1996,Telecommunications,121000.0,California,west,L,Data Science and Research,L
+Data Scientist,4.7,New England Biolabs,"Ipswich, MA","Ipswich, MA",1974,Biotech & Pharmaceuticals,112500.0,Massachusetts,north-east,S,Data Science and Research,Unknown
+Web Data Analyst,4.2,Clarity Insights,"San Jose, CA","Chicago, IL",2008,Information Technology,106000.0,California,west,S,Data Analysis,Unknown
+Data Scientist,3.5,Esri,"Redlands, CA","Redlands, CA",1969,Information Technology,107000.0,California,west,S,Data Science and Research,L
+Data Scientist,4.7,Systems & Technology Research,"Woburn, MA","Woburn, MA",2010,Aerospace & Defense,110000.0,Massachusetts,north-east,S,Data Science and Research,M
+Senior Data Scientist,3.5,Sartorius,"Fremont, CA","Gottingen, Germany",1870,Biotech & Pharmaceuticals,147500.0,California,west,L,Data Science and Research,L
+Data Engineer,3.5,Lancer Insurance,"Long Beach, NY","Long Beach, NY",1985,Insurance,106000.0,New York,north-east,S,Data Engineering,M
+Data Analyst,4.2,Sauce Labs,"San Francisco, CA","San Francisco, CA",2008,Information Technology,88000.0,California,west,S,Data Analysis,M
+Data Engineer,3.6,Persivia,"Marlborough, MA","Lowell, MA",Unknown,Information Technology,98500.0,Massachusetts,north-east,S,Data Engineering,XS
+Data Scientist - Algorithms & Inference,4.2,Nuna,"San Francisco, CA","San Francisco, CA",2010,Information Technology,142500.0,California,west,S,Data Science and Research,Unknown
+Scientist,3.4,Edgewell Personal Care,"Allendale, NJ","Shelton, CT",2015,Manufacturing,82500.0,New Jersey,north-east,L,Data Architecture and Modeling,L
+Lead Data Scientist,3.7,Visa Inc.,"Bellevue, WA","Foster City, CA",1958,Information Technology,184500.0,Washington,west,L,Data Science and Research,XL
+Associate Data Analyst,3.1,Intrado,"Longmont, CO","Omaha, NE",1986,Information Technology,29500.0,Colorado,west,L,Data Analysis,L
+Spectral Scientist/Engineer,4.7,Centauri,"Beavercreek, OH","Chantilly, VA",1999,Aerospace & Defense,86500.0,Ohio,mid-west,M,Data Engineering,M
+College Hire - Data Scientist - Open to December 2019 Graduates,3.7,Caterpillar,"Peoria, IL","Deerfield, IL",1925,Manufacturing,81000.0,Illinois,mid-west,L,Data Science and Research,XL
+Data Scientist,3.8,Zimmerman Advertising,"Fort Lauderdale, FL","Fort Lauderdale, FL",1984,Business Services,91000.0,Florida,south-east,M,Data Science and Research,Unknown
+"Data Scientist, Office of Data Science",3.3,Liberty Mutual Insurance,"Boston, MA","Boston, MA",1912,Insurance,114500.0,Massachusetts,north-east,L,Data Science and Research,XL
+Data Science Analyst,4.6,"Torch Technologies, Inc.","Huntsville, AL","Huntsville, AL",2002,Aerospace & Defense,68000.0,Alabama,south-east,S,Data Science and Research,M
+Data Scientist,3.7,Swiss Re,"Armonk, NY","Zurich, Switzerland",1863,Insurance,115000.0,New York,north-east,L,Data Science and Research,XL
+Data Scientist,3.7,Northrop Grumman,"San Diego, CA","Falls Church, VA",1939,Aerospace & Defense,109500.0,California,west,L,Data Science and Research,XL
+Data Scientist,3.5,Sartorius,"Albuquerque, NM","Gottingen, Germany",1870,Biotech & Pharmaceuticals,75500.0,New Mexico,south-west,L,Data Science and Research,L
+Data Scientist,4.1,Netskope,"San Francisco, CA","Santa Clara, CA",2012,Information Technology,154500.0,California,west,M,Data Science and Research,Unknown
+Data Scientist,4.7,1904labs,"Saint Louis, MO","Saint Louis, MO",2016,Information Technology,143500.0,Missouri,mid-west,S,Data Science and Research,Unknown
+Senior Data Scientist,4.4,The David J. Joseph Company,"Cincinnati, OH","Cincinnati, OH",1885,Mining & Metals,107000.0,Ohio,mid-west,S,Data Science and Research,Unknown
+Data Scientist,4.3,USEReady,"New York, NY","New York, NY",2011,Business Services,115000.0,New York,north-east,S,Data Science and Research,S
+Senior Risk Data Scientist,3.8,Bill.com,"Palo Alto, CA","Palo Alto, CA",2006,Finance,139500.0,California,west,M,Data Science and Research,M
+Data Scientist in Artificial Intelligence Early Career,3.8,Pacific Northwest National Laboratory,"Richland, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",67000.0,Washington,west,S,Data Science and Research,M
+Data Scientist,3.8,DICK'S Sporting Goods - Corporate,"Coraopolis, PA","Coraopolis, PA",1948,Retail,85000.0,Pennsylvania,north-east,L,Data Science and Research,L
+Data Scientist,2.8,Berg Health,"Framingham, MA","Framingham, MA",2006,Biotech & Pharmaceuticals,118000.0,Massachusetts,north-east,S,Data Science and Research,XS
+Data Scientist,4.7,Oversight Systems,"Atlanta, GA","Atlanta, GA",2003,Information Technology,79500.0,Georgia,south-east,S,Data Science and Research,S
+Data Scientist - Research,3.1,C Space,"Boston, MA","Boston, MA",1999,Business Services,56500.0,Massachusetts,north-east,S,Data Science and Research,M
+Data Scientist,3.2,"Numeric, LLC","Philadelphia, PA","Chadds Ford, PA",Unknown,Business Services,128500.0,Pennsylvania,north-east,S,Data Science and Research,S
+R&D Data Analysis Scientist,4.0,HP Inc.,"Vancouver, WA","Palo Alto, CA",1939,Information Technology,97500.0,Washington,west,L,Data Analysis,Unknown
+Analytics Consultant,4.4,SpringML,"Indianapolis, IN","Pleasanton, CA",2015,Information Technology,66500.0,Indiana,mid-west,S,Data Architecture and Modeling,Unknown
+"Director, Data Science",3.6,Grainger,"Lake Forest, IL","Lake Forest, IL",1927,Business Services,179500.0,Illinois,mid-west,L,Data Science and Research,XL
+Scientist,2.7,EAG Laboratories,"Maryland Heights, MO","San Diego, CA",1978,Business Services,76000.0,Missouri,mid-west,M,Data Architecture and Modeling,M
+Data Scientist SR,3.9,The Buffalo Group,"Charlottesville, VA","Reston, VA",2010,Information Technology,112000.0,Virginia,south-east,M,Data Science and Research,M
+Data Scientist,3.1,Carmeuse,"Pittsburgh, PA","Louvain-la-Neuve, Belgium",1860,Mining & Metals,98000.0,Pennsylvania,north-east,S,Data Science and Research,L
+R&D Sr Data Scientist,4.0,HP Inc.,"Vancouver, WA","Palo Alto, CA",1939,Information Technology,128000.0,Washington,west,L,Data Science and Research,Unknown
+Customer Data Scientist/Sales Engineer (Bay,4.3,h2o.ai,"Mountain View, CA","Mountain View, CA",2011,Information Technology,150500.0,California,west,S,Data Science and Research,Unknown
+Research Scientist,1.9,GNS Healthcare,"Cambridge, MA","Cambridge, MA",2000,Biotech & Pharmaceuticals,87500.0,Massachusetts,north-east,S,Data Science and Research,S
+Data Scientist,3.3,Peraton,"Chantilly, VA","Herndon, VA",2017,Aerospace & Defense,110000.0,Virginia,south-east,S,Data Science and Research,L
+Data Scientist,4.4,Pactera,"San Jose, CA","Beijing, China",1995,Information Technology,113500.0,California,west,L,Data Science and Research,M
+Data Scientist,3.9,Nurx,"San Francisco, CA","San Francisco, CA",2016,Health Care,124000.0,California,west,S,Data Science and Research,XS
+Jr. Business Data Analyst,4.7,webfx.com,"Harrisburg, PA","Harrisburg, PA",1997,Business Services,56500.0,Pennsylvania,north-east,S,Data Analysis,S
+Data Scientist,4.5,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD","Laurel, MD",1942,Aerospace & Defense,130000.0,Maryland,north-east,L,Data Science and Research,L
+Data Analyst,4.3,Productive Edge,"Chicago, IL","Chicago, IL",2008,Information Technology,77500.0,Illinois,mid-west,S,Data Analysis,S
+Data Engineer,4.0,Excella Consulting,"Arlington, VA","Arlington, VA",2002,Business Services,87000.0,Virginia,south-east,S,Data Engineering,M
+Data Analyst,4.4,Gensco,"Tacoma, WA","Tacoma, WA",1948,Business Services,53500.0,Washington,west,M,Data Analysis,M
+Data Scientist,4.2,goTRG,"Miami, FL","Miami, FL",2008,Information Technology,85500.0,Florida,south-east,M,Data Science and Research,M
+Data Management Specialist,4.5,NMR Consulting,"Huntsville, AL","Chantilly, VA",1996,Information Technology,48000.0,Alabama,south-east,S,Leadership and Management,S
+E-Commerce Data Analyst,3.5,iSeatz,"New Orleans, LA","New Orleans, LA",1999,Information Technology,48000.0,Louisiana,south-east,S,Data Analysis,Unknown
+Sr. Scientist II,3.5,Nektar Therapeutics,"San Francisco, CA","San Francisco, CA",1990,Biotech & Pharmaceuticals,174000.0,California,west,S,Data Architecture and Modeling,M
+Insurance Data Scientist,3.9,TransUnion,"Atlanta, GA","Chicago, IL",1968,Finance,85000.0,Georgia,south-east,L,Data Science and Research,L
+Data Modeler,4.7,IT Concepts,"Landover, MD","Vienna, VA",2003,Information Technology,106500.0,Maryland,north-east,S,Data Architecture and Modeling,S
+Data Analyst / Scientist,4.2,Scientific Research Corporation,"Patuxent River, MD","Atlanta, GA",1988,Information Technology,72500.0,Maryland,north-east,S,Data Analysis,M
+Scientist,3.4,General Dynamics Information Technology,"Suitland, MD","Fairfax, VA",1996,Information Technology,85500.0,Maryland,north-east,L,Data Architecture and Modeling,XL
+Data Scientist,3.2,MITRE,"McLean, VA","Bedford, MA",1958,Government,97500.0,Virginia,south-east,L,Data Science and Research,L
+Data Scientist,3.9,The Buffalo Group,"Fort Belvoir, VA","Reston, VA",2010,Information Technology,99000.0,Virginia,south-east,M,Data Science and Research,M
+Data Analyst,3.1,DentaQuest,"Milwaukee, WI","Boston, MA",2001,Insurance,56500.0,Wisconsin,mid-west,S,Data Analysis,L
+Lead Data Scientist,4.1,Redjack,"Silver Spring, MD","Silver Spring, MD",2007,Information Technology,133000.0,Maryland,north-east,S,Data Science and Research,Unknown
+Data Scientist,3.8,7Park Data,"New York, NY","New York, NY",2012,Business Services,121000.0,New York,north-east,S,Data Science and Research,Unknown
+Data Scientist,4.7,Rapid Response Monitoring,"Syracuse, NY","Syracuse, NY",1992,Business Services,85500.0,New York,north-east,M,Data Science and Research,Unknown
+"Data Scientist, Rice University",4.3,Trilogy Ed,"Houston, TX","New York, NY",2015,Education,87500.0,Texas,south-west,S,Data Science and Research,Unknown
+Data Engineer,3.9,CapTech,"Charlotte, NC","Richmond, VA",1997,Information Technology,95500.0,North Carolina,south-east,S,Data Engineering,M
+Senior Data Scientist,3.3,American Axle & Manufacturing,"Southfield, MI","Detroit, MI",1994,Manufacturing,104500.0,Michigan,mid-west,L,Data Science and Research,L
+Financial Data Analyst,4.7,CentralReach,"Matawan, NJ","Pompano Beach, FL",2012,Information Technology,56500.0,New Jersey,north-east,S,Data Analysis,Unknown
+Senior Data Analyst,4.3,Integrate,"Phoenix, AZ","Phoenix, AZ",2010,Information Technology,55000.0,Arizona,south-west,S,Data Analysis,S
+Research Scientist,2.9,Boys Town Hospital,"Omaha, NE","Omaha, NE",1977,Health Care,61500.0,Nebraska,mid-west,S,Data Science and Research,Unknown
+Data Scientist,4.5,Demandbase,"San Francisco, CA","San Francisco, CA",2006,Information Technology,157000.0,California,west,S,Data Science and Research,M
+Data Engineer,3.4,Sapphire Digital,"Lyndhurst, NJ","Lyndhurst, NJ",2019,Information Technology,78000.0,New Jersey,north-east,S,Data Engineering,Unknown
+Data Scientist,3.2,Formation,"San Francisco, CA","San Francisco, CA",2015,Information Technology,132500.0,California,west,S,Data Science and Research,Unknown
+Data Engineer,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",1982,Information Technology,108000.0,California,west,L,Data Engineering,L
+Ag Data Scientist,4.6,Beck's Hybrids,"Atlanta, IN","Atlanta, IN",1937,Agriculture & Forestry,80500.0,Indiana,mid-west,M,Data Science and Research,M
+Data Scientist,2.8,DrFirst,"Rockville, MD","Rockville, MD",2000,Health Care,107500.0,Maryland,north-east,S,Data Science and Research,Unknown
+Data Engineer,4.7,Object Partners,"Minneapolis, MN","Minneapolis, MN",1996,Business Services,95000.0,Minnesota,mid-west,S,Data Engineering,S
+Data Scientist II,3.0,L.A. Care Health Plan,"Los Angeles, CA","Los Angeles, CA",1997,Health Care,119500.0,California,west,S,Data Science and Research,Unknown
+Senior Data Engineer,3.2,Red Ventures,"Charlotte, NC","Fort Mill, SC",2000,Business Services,134000.0,North Carolina,south-east,S,Data Engineering,L
+Data Scientist,4.4,Quick Base,"Cambridge, MA","Cambridge, MA",1999,Information Technology,100500.0,Massachusetts,north-east,S,Data Science and Research,Unknown
+Data Scientist,3.5,The E.W. Scripps Company,"Cincinnati, OH","Cincinnati, OH",1878,Media,107500.0,Ohio,mid-west,S,Data Science and Research,M
+Data Analyst,2.3,Synagro,"Baltimore, MD","Baltimore, MD",1986,Business Services,62000.0,Maryland,north-east,M,Data Analysis,M
+Project Scientist,4.0,Alliance Source Testing,"Alabaster, AL","Decatur, AL",2000,Business Services,39500.0,Alabama,south-east,S,Data Architecture and Modeling,S
+Data Analytics Manager,3.8,Full Potential Solutions,"Kansas City, MO","Kansas City, MO",2017,Business Services,40500.0,Missouri,mid-west,M,Leadership and Management,Unknown
+Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,3.7,Visa Inc.,"Ashburn, VA","Foster City, CA",1958,Information Technology,89500.0,Virginia,south-east,L,Data Science and Research,XL
+Data Scientist,4.4,Maven Wave Partners,"Chicago, IL","Chicago, IL",2008,Business Services,81000.0,Illinois,mid-west,S,Data Science and Research,M
+Senior Data Scientist,4.0,Novetta,"Herndon, VA","Mc Lean, VA",2012,Information Technology,147000.0,Virginia,south-east,M,Data Science and Research,M
+Data Scientist,3.2,"First Command Financial Services, Inc.","Fort Worth, TX","Fort Worth, TX",1958,Finance,85000.0,Texas,south-west,S,Data Science and Research,M
+Associate Scientist,2.9,Pharmavite,"Valencia, CA","West Hills, CA",1971,Manufacturing,81500.0,California,west,S,Data Architecture and Modeling,L
+"Scientist 2, QC Viral Vector",3.8,BioMarin Pharmaceutical,"Novato, CA","San Rafael, CA",1997,Biotech & Pharmaceuticals,168000.0,California,west,S,Data Architecture and Modeling,M
+Machine Learning Engineer,4.3,Stratagem Group,"Aurora, CO","Aurora, CO",2007,Aerospace & Defense,100500.0,Colorado,west,S,Machine Learning and AI,Unknown
+Data Scientist/ML Engineer,3.4,PA Consulting,"New York, NY","London, United Kingdom",1943,Business Services,97000.0,New York,north-east,S,Data Science and Research,M
+Data Engineer,4.3,Productive Edge,"Chicago, IL","Chicago, IL",2008,Information Technology,100000.0,Illinois,mid-west,S,Data Engineering,S
+Sr. Data Scientist,3.7,Evolve Vacation Rental,"Denver, CO","Denver, CO",2011,Travel & Tourism,105000.0,Colorado,west,S,Data Science and Research,Unknown
+Data Engineer 4 - Contract,4.2,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT","Salt Lake City, UT",Unknown,Non-Profit,87000.0,Utah,west,L,Data Engineering,Unknown
+Data Analyst - Asset Management,4.3,Maximus Real Estate Partners,"San Francisco, CA","San Francisco, CA",2013,Real Estate,103500.0,California,west,S,Data Analysis,Unknown
+Senior Research Scientist - Embedded System Development for DevOps,2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",1984,Education,124000.0,Pennsylvania,north-east,M,Data Science and Research,Unknown
+Data Scientist - Bioinformatics,3.8,PNNL,"Richland, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",67000.0,Washington,west,S,Data Science and Research,M
+Customer Data Scientist/Sales Engineer,4.3,h2o.ai,"Chicago, IL","Mountain View, CA",2011,Information Technology,137500.0,Illinois,mid-west,S,Data Science and Research,Unknown
+Lead Data Scientist,3.8,PatientPoint,"Cincinnati, OH","Cincinnati, OH",1987,Business Services,100000.0,Ohio,mid-west,S,Data Science and Research,M
+MongoDB Data Engineer II,3.8,BlueCross BlueShield of Tennessee,"Chattanooga, TN","Chattanooga, TN",1945,Insurance,106500.0,Tennessee,south-east,L,Data Engineering,L
+Senior Data Scientist Statistics,3.8,PNNL,"Richland, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",98500.0,Washington,west,S,Data Science and Research,M
+Senior Data Analyst,4.8,KnowBe4,"Clearwater, FL","Clearwater, FL",2010,Business Services,61000.0,Florida,south-east,M,Data Analysis,M
+Senior Spark Engineer (Data Science),4.4,KSM Consulting,"Indianapolis, IN","Indianapolis, IN",2008,Business Services,106500.0,Indiana,mid-west,S,Data Science and Research,Unknown
+Data Engineer,3.9,Cogo Labs,"Cambridge, MA","Cambridge, MA",2005,Information Technology,84500.0,Massachusetts,north-east,S,Data Engineering,Unknown
+BI & Platform Analytics Manager,3.4,Church & Dwight,"Ewing, NJ","Ewing, NJ",1846,Manufacturing,109500.0,New Jersey,north-east,S,BI and Visualization,L
+Lead Data Scientist,3.6,MassMutual,"Boston, MA","Springfield, MA",1851,Insurance,164000.0,Massachusetts,north-east,L,Data Science and Research,XL
+"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",3.9,Genentech,"South San Francisco, CA","South San Francisco, CA",1976,Biotech & Pharmaceuticals,169000.0,California,west,L,Data Science and Research,XL
+Senior Data Scientist,3.8,Juniper Networks,"Cupertino, CA","Sunnyvale, CA",1996,Telecommunications,142000.0,California,west,L,Data Science and Research,L
+Pricipal Scientist Molecular and cellular biologist,3.7,Takeda Pharmaceuticals,"Boston, MA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,76500.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+"Data Scientist (Actuary, FSA or ASA)",3.8,Legal & General America,"Frederick, MD","Frederick, MD",1981,Insurance,107000.0,Maryland,north-east,M,Data Science and Research,M
+Staff Data Scientist,3.5,Western Digital,"San Jose, CA","San Jose, CA",1970,Information Technology,171500.0,California,west,L,Data Science and Research,XL
+Data Engineer 5 - Contract (Remote),4.2,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT","Salt Lake City, UT",Unknown,Non-Profit,107000.0,Utah,west,L,Data Engineering,Unknown
+Senior Scientist - Neuroscience,3.5,Sunovion,"Marlborough, MA","Marlborough, MA",2010,Biotech & Pharmaceuticals,145000.0,Massachusetts,north-east,S,Data Architecture and Modeling,L
+Senior Data Analyst,2.9,National Student Clearinghouse,"Herndon, VA","Herndon, VA",1993,Education,61500.0,Virginia,south-east,S,Data Analysis,S
+Medical Lab Scientist,3.6,Tower Health,"West Reading, PA","Reading, PA",2017,Health Care,42640.0,Pennsylvania,north-east,L,Data Architecture and Modeling,Unknown
+"Risk and Analytics IT, Data Scientist",2.7,State of Wisconsin Investment Board,"Madison, WI","Madison, WI",1951,Finance,120000.0,Wisconsin,mid-west,S,Data Science and Research,M
+"Scientist, Analytical Development",4.4,Rubius Therapeutics,"Cambridge, MA","Cambridge, MA",2013,Biotech & Pharmaceuticals,62000.0,Massachusetts,north-east,S,Data Architecture and Modeling,M
+Senior Data Scientist,4.0,Autodesk,"San Francisco, CA","San Rafael, CA",1982,Information Technology,150500.0,California,west,L,Data Science and Research,L
+Analytics Manager,4.3,OneMagnify,"Dearborn, MI","Detroit, MI",1967,Business Services,87500.0,Michigan,mid-west,S,Leadership and Management,Unknown
+Data Engineer,4.2,IZEA,"Winter Park, FL","Winter Park, FL",2006,Business Services,71500.0,Florida,south-east,S,Data Engineering,S
+Digital Marketing & ECommerce Data Analyst,3.6,Vionic Group,"San Rafael, CA","San Rafael, CA",2006,Retail,51500.0,California,west,S,Data Analysis,M
+Sr. Scientist - Digital & Image Analysis/Computational Pathology,3.7,Takeda Pharmaceuticals,"San Diego, CA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,151500.0,California,west,L,Data Analysis,XL
+Senior Data Analyst,2.8,Dodge Data & Analytics,"Hamilton, NJ","Hamilton, NJ",2014,Information Technology,77500.0,New Jersey,north-east,S,Data Analysis,Unknown
+Principal Scientist - Immunologist,3.7,Takeda Pharmaceuticals,"Boston, MA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,140000.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+Senior Data Scientist,3.3,Plymouth Rock Assurance,"Woodbridge, NJ","Boston, MA",1982,Insurance,98500.0,New Jersey,north-east,S,Data Science and Research,S
+MED TECH/LAB SCIENTIST - LABORATORY,3.6,Beebe Healthcare,"Lewes, DE","Lewes, DE",1935,Health Care,57200.0,Delaware,north-east,S,Data Architecture and Modeling,M
+"Sr. Scientist, Quantitative Translational Sciences",3.7,Takeda Pharmaceuticals,"Boston, MA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,161500.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+Sr. Data Scientist II,3.4,Argo Group US,"New York, NY","Hamilton, Bermuda",1948,Insurance,147000.0,New York,north-east,S,Data Science and Research,L
+Excel / VBA / SQL Data Analyst,4.1,Associated Electric Cooperative,"Springfield, MO","Springfield, MO",1961,"Oil, Gas, Energy & Utilities",61000.0,Missouri,mid-west,M,Data Analysis,L
+Machine Learning Research Scientist,2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",1984,Education,120000.0,Pennsylvania,north-east,M,Data Science and Research,Unknown
+"VP, Data Science",3.2,PennyMac,"Phoenix, AZ","Westlake Village, CA",2008,Finance,124500.0,Arizona,south-west,S,Data Science and Research,M
+Senior Data Scientist,3.9,Zest AI,"Burbank, CA","Burbank, CA",2009,Finance,148000.0,California,west,S,Data Science and Research,M
+Radar Data Analyst,4.7,DECISIVE ANALYTICS Corporation,"Huntsville, AL","Arlington, VA",1996,Aerospace & Defense,59000.0,Alabama,south-east,S,Data Analysis,S
+PL Actuarial-Lead Data Scientist,3.7,The Hanover Insurance Group,"Worcester, MA","Worcester, MA",1852,Insurance,146500.0,Massachusetts,north-east,L,Data Science and Research,L
+PV Scientist,2.9,Karyopharm Therapeutics Inc.,"Newton, MA","Newton, MA",Unknown,Biotech & Pharmaceuticals,91500.0,Massachusetts,north-east,S,Data Architecture and Modeling,Unknown
+Senior Data & Machine Learning Scientist,3.0,Tempus Labs,"Chicago, IL","Chicago, IL",2015,Biotech & Pharmaceuticals,133000.0,Illinois,mid-west,M,Machine Learning and AI,Unknown
+Principal Data Scientist (Computational Chemistry),4.7,Recursion Pharmaceuticals,"Salt Lake City, UT","Salt Lake City, UT",2013,Biotech & Pharmaceuticals,140500.0,Utah,west,S,Data Science and Research,XS
+Data Engineer,3.7,P2 Energy Solutions,"Lafayette, LA","Denver, CO",Unknown,Information Technology,70500.0,Louisiana,south-east,M,Data Engineering,Unknown
+"Principal Scientist, Chemistry & Immunology",3.3,Rochester Regional Health,"Rochester, NY","Rochester, NY",2014,Health Care,84500.0,New York,north-east,L,Data Architecture and Modeling,M
+Software Engineer - Data Visualization,4.0,ClearEdge,"Annapolis Junction, MD","Annapolis Junction, MD",2002,Information Technology,93500.0,Maryland,north-east,S,BI and Visualization,S
+"Scientist/Senior Scientist, Autoimmune",4.4,Rubius Therapeutics,"Cambridge, MA","Cambridge, MA",2013,Biotech & Pharmaceuticals,134500.0,Massachusetts,north-east,S,Data Architecture and Modeling,M
+Staff Machine Learning Engineer,3.9,Tapjoy,"San Francisco, CA","San Francisco, CA",2007,Information Technology,181000.0,California,west,S,Machine Learning and AI,S
+"Principal Scientist, Hematology",3.3,Rochester Regional Health,"Rochester, NY","Rochester, NY",2014,Health Care,84500.0,New York,north-east,L,Data Architecture and Modeling,M
+Marketing Data Analyst,3.6,San Manuel Casino,"Highland, CA","Highland, CA",1986,"Arts, Entertainment & Recreation",48500.0,California,west,S,Data Analysis,M
+Medical Laboratory Scientist,4.0,Texas Health Huguley Hospital,"Burleson, TX","Arlington, TX",1977,Health Care,44720.0,Texas,south-west,S,Data Architecture and Modeling,M
+R&D Specialist/ Food Scientist,2.4,Teasdale Latin Foods,"Hoopeston, IL","Flower Mound, TX",Unknown,Manufacturing,52500.0,Illinois,mid-west,M,Data Architecture and Modeling,M
+Senior Research Scientist-Machine Learning,2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",1984,Education,124000.0,Pennsylvania,north-east,M,Data Science and Research,Unknown
+Analytics Manager - Data Mart,3.5,Central California Alliance for Health,"Scotts Valley, CA","Scotts Valley, CA",1996,Health Care,64000.0,California,west,M,Leadership and Management,M
+Sr. Data Engineer - Contract-to-Hire (Java),3.0,Pilot Flying J Travel Centers LLC,"Knoxville, TN","Knoxville, TN",1958,Retail,98000.0,Tennessee,south-east,L,Data Engineering,XL
+MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,3.6,Beebe Healthcare,"Millville, DE","Lewes, DE",1935,Health Care,57200.0,Delaware,north-east,S,Data Architecture and Modeling,M
+Food Scientist - Developer,3.3,Palermo's Pizza,"Milwaukee, WI","Milwaukee, WI",1964,Manufacturing,54000.0,Wisconsin,mid-west,M,Data Architecture and Modeling,Unknown
+Staff Scientist-Downstream Process Development,2.7,Advanced BioScience Laboratories,"Rockville, MD","Rockville, MD",1961,Biotech & Pharmaceuticals,81000.0,Maryland,north-east,S,Data Architecture and Modeling,S
+Sr. Data Engineer,3.4,Echo Global Logistics,"Chicago, IL","Chicago, IL",2005,Transportation & Logistics,107500.0,Illinois,mid-west,S,Data Engineering,L
+Data Scientist,3.7,Lockheed Martin,"Herndon, VA","Bethesda, MD",1995,Aerospace & Defense,89000.0,Virginia,south-east,L,Data Science and Research,XL
+Senior Research Statistician- Data Scientist,4.8,Acuity Insurance,"Sheboygan, WI","Sheboygan, WI",1925,Insurance,100500.0,Wisconsin,mid-west,S,Data Science and Research,L
+"Business Data Analyst, SQL",3.8,Fareportal,"New York, NY","New York, NY",2002,Travel & Tourism,65000.0,New York,north-east,S,Data Analysis,L
+Medical Technologist / Clinical Laboratory Scientist,3.4,"Veterans Affairs, Veterans Health Administration","New Orleans, LA","Washington, DC",1930,Government,41600.0,Louisiana,south-east,L,Data Architecture and Modeling,Unknown
+Data Scientist,4.3,Credera,"Dallas, TX","Dallas, TX",1999,Business Services,72500.0,Texas,south-west,S,Data Science and Research,Unknown
+Data Scientist,3.4,Spectrum Communications and Consulting,"Chicago, IL","Chicago, IL",1992,Business Services,87500.0,Illinois,mid-west,S,Data Science and Research,S
+Data Analyst,3.1,NCSOFT,"San Mateo, CA","Seoul, South Korea",1997,Media,92500.0,California,west,S,Data Analysis,XL
+Associate Data Scientist/Computer Scientist,3.2,MITRE,"McLean, VA","Bedford, MA",1958,Government,81500.0,Virginia,south-east,L,Data Science and Research,L
+Business Intelligence Analyst / Developer,4.3,"Dayton Freight Lines, Inc.","Dayton, OH","Dayton, OH",1981,Transportation & Logistics,79000.0,Ohio,mid-west,S,Data Analysis,Unknown
+Data Analyst,2.8,Community Action Partnership of San Luis Obispo,"Parlier, CA","San Luis Obispo, CA",Unknown,Non-Profit,47500.0,California,west,M,Data Analysis,M
+Data Analyst,3.4,TrueAccord,"San Francisco, CA","San Francisco, CA",2013,Information Technology,69000.0,California,west,S,Data Analysis,Unknown
+Data Analyst,4.0,DRB Systems,"Meridian, ID","Akron, OH",1984,Information Technology,49000.0,Idaho,west,S,Data Analysis,M
+System and Data Analyst,3.7,Corcentric,"Cherry Hill, NJ","Cherry Hill, NJ",1996,Information Technology,59000.0,New Jersey,north-east,S,Data Analysis,Unknown
+Data Scientist,3.5,U.Group,"Indianapolis, IN","Arlington, VA",2019,Information Technology,88500.0,Indiana,mid-west,S,Data Science and Research,S
+Data & Analytics Consultant (NYC),4.7,Systems Evolution Inc.,"New York, NY","Cincinnati, OH",1992,Business Services,114500.0,New York,north-east,S,Data Architecture and Modeling,M
+Data Engineer,4.4,Eventbrite,"Nashville, TN","San Francisco, CA",2006,Information Technology,88000.0,Tennessee,south-east,S,Data Engineering,M
+Big Data Engineer - Chicago - Future Opportunity,4.1,Centro,"Chicago, IL","Chicago, IL",2001,Information Technology,100000.0,Illinois,mid-west,M,Data Engineering,M
+Data Scientist,2.5,comScore,"Portland, OR","Reston, VA",1999,Business Services,96500.0,Oregon,west,S,Data Science and Research,L
+Survey Data Analyst,4.2,SullivanCotter,"Minneapolis, MN","Chicago, IL",1992,Business Services,76000.0,Minnesota,mid-west,S,Data Analysis,Unknown
+Data Scientist,4.3,Bakery Agency,"Austin, TX","Austin, TX",2010,Business Services,83500.0,Texas,south-west,S,Data Science and Research,Unknown
+Data Scientist,3.9,Genentech,"South San Francisco, CA","South San Francisco, CA",1976,Biotech & Pharmaceuticals,163000.0,California,west,L,Data Science and Research,XL
+Lead Health Data Analyst - Front End,3.4,Blue Cross & Blue Shield of Rhode Island,"Providence, RI","Providence, RI",1939,Insurance,100000.0,Rhode Island,north-east,M,Data Analysis,Unknown
+Research Scientist,3.8,Boys Town,"Omaha, NE","Omaha, NE",1917,Non-Profit,52500.0,Nebraska,mid-west,S,Data Science and Research,Unknown
+SQL Data Engineer,3.4,Pro-Sphere Tek,"Austin, TX","Alexandria, VA",2006,Business Services,93000.0,Texas,south-west,S,Data Engineering,M
+Data Scientist,3.0,Ameritas Life Insurance Corp,"Cincinnati, OH","Lincoln, NE",1887,Insurance,94500.0,Ohio,mid-west,S,Data Science and Research,L
+Data Scientist,3.7,Genworth,"Raleigh, NC","Richmond, VA",2004,Insurance,102000.0,North Carolina,south-east,S,Data Science and Research,L
+"Sr. Data Scientist, Cyber-Security LT Contract",3.2,"Numeric, LLC","Phila, PA","Chadds Ford, PA",Unknown,Business Services,155000.0,Pennsylvania,north-east,S,Data Science and Research,S
+Data Scientist,3.9,Trace Data,"Oakland, CA","Santa Ana, CA",2000,Insurance,108000.0,California,west,S,Data Science and Research,S
+Insurance Financial Data Analyst,4.2,Clearwater Analytics,"Boise, ID","Boise, ID",2004,Finance,63500.0,Idaho,west,M,Data Analysis,M
+Data Scientist,4.0,"Tekvalley, Corp.","San Francisco, CA","Pleasanton, CA",Unknown,Information Technology,109000.0,California,west,S,Data Science and Research,XS
+Data Scientist,3.5,BWX Technologies,"Oak Ridge, TN","Lynchburg, VA",1850,Aerospace & Defense,96000.0,Tennessee,south-east,L,Data Science and Research,M
+Data Engineer,3.2,PennyMac,"Agoura Hills, CA","Westlake Village, CA",2008,Finance,101000.0,California,west,S,Data Engineering,M
+Data Engineer I - Azure,3.9,Vermeer,"Pella, IA","Pella, IA",1948,Manufacturing,77500.0,Iowa,mid-west,S,Data Engineering,L
+Data Scientist,3.5,L&T Infotech,"San Ramon, CA","Mumbai, India",1997,Information Technology,90000.0,California,west,L,Data Science and Research,Unknown
+Information Security Data Analyst,4.3,OceanFirst Financial,"Red Bank, NJ","Toms River, NJ",1902,Finance,58000.0,New Jersey,north-east,M,Data Analysis,L
+Data Scientist,3.6,Sotheby's,"New York, NY","New York, NY",1744,Retail,128000.0,New York,north-east,S,Data Science and Research,M
+"Data Scientist, Senior",4.0,Novetta,"Fort Belvoir, VA","Mc Lean, VA",2012,Information Technology,142000.0,Virginia,south-east,M,Data Science and Research,M
+Senior Data Scientist,4.1,CK-12 Foundation,"Palo Alto, CA","Palo Alto, CA",2007,Education,169000.0,California,west,S,Data Science and Research,Unknown
+CONSULTANT– DATA ANALYTICS GROUP,4.2,Opinion Dynamics,"San Diego, CA","Waltham, MA",1987,Business Services,52500.0,California,west,S,Data Architecture and Modeling,S
+Data Engineer,4.6,Applied Information Sciences,"Houston, TX","Reston, VA",1982,Information Technology,75500.0,Texas,south-west,M,Data Engineering,M
+Senior Data Scientist,3.7,Swiss Re,"Armonk, NY","Zurich, Switzerland",1863,Insurance,139000.0,New York,north-east,L,Data Science and Research,XL
+"Data Engineer, Data Engineering and Artifical Intelligence",3.7,Takeda Pharmaceuticals,"Cambridge, MA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,102500.0,Massachusetts,north-east,L,Data Engineering,XL
+Staff Scientist,4.4,WK Dickson,"Columbia, SC","Charlotte, NC",1929,Business Services,60500.0,South Carolina,south-east,S,Data Architecture and Modeling,S
+"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",3.9,Genentech,"South San Francisco, CA","South San Francisco, CA",1976,Biotech & Pharmaceuticals,125000.0,California,west,L,Data Architecture and Modeling,XL
+Sr. Data Analyst,3.6,MassMutual,"Springfield, MA","Springfield, MA",1851,Insurance,81000.0,Massachusetts,north-east,L,Data Analysis,XL
+Data Engineer,4.1,ManTech,"Herndon, VA","Herndon, VA",1968,Business Services,92000.0,Virginia,south-east,L,Data Engineering,L
+Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,3.8,Novartis,"Cambridge, MA","Basel, Switzerland",1996,Biotech & Pharmaceuticals,121000.0,Massachusetts,north-east,L,Data Science and Research,XL
+"Principal Data Engineer, Data Platform & Insights",4.0,Autodesk,"San Francisco, CA","San Rafael, CA",1982,Information Technology,162500.0,California,west,L,Data Engineering,L
+RESEARCH SCIENTIST - BIOLOGICAL SAFETY,3.9,Southwest Research Institute,"San Antonio, TX","San Antonio, TX",1947,Business Services,60000.0,Texas,south-west,S,Data Science and Research,M
+Big Data Engineer,4.4,SpringML,"Indianapolis, IN","Pleasanton, CA",2015,Information Technology,90500.0,Indiana,mid-west,S,Data Engineering,Unknown
+Senior Data Scientist,2.2,The Integer Group,"Dallas, TX","Denver, CO",1993,Business Services,110000.0,Texas,south-west,M,Data Science and Research,M
+Clinical Data Analyst,4.1,ManTech,"Portsmouth, VA","Herndon, VA",1968,Business Services,70500.0,Virginia,south-east,L,Data Analysis,L
+Computational Chemist/Data Scientist,3.8,PNNL,"Richland, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",76500.0,Washington,west,S,Data Science and Research,M
+Data Engineer,3.6,MassMutual,"Springfield, MA","Springfield, MA",1851,Insurance,92000.0,Massachusetts,north-east,L,Data Engineering,XL
+Product Engineer – Data Science,3.5,Esri,"Arlington, VA","Redlands, CA",1969,Information Technology,82000.0,Virginia,south-east,S,Data Science and Research,L
+Data Scientist,3.3,Samba TV,"San Francisco, CA","San Francisco, CA",2008,Business Services,164500.0,California,west,S,Data Science and Research,Unknown
+Market Data Analyst,3.4,SV Microwave,"West Palm Beach, FL","West Palm Beach, FL",1991,Telecommunications,44000.0,Florida,south-east,S,Data Analysis,M
+Data Engineer,4.4,SpringML,"Herndon, VA","Pleasanton, CA",2015,Information Technology,109000.0,Virginia,south-east,S,Data Engineering,Unknown
+Staff Data Engineer,3.8,Sumo Logic,"Austin, TX","Redwood City, CA",2010,Information Technology,149500.0,Texas,south-west,M,Data Engineering,Unknown
+Senior Data Scientist,3.5,Brighthouse Financial,"Charlotte, NC","Charlotte, NC",2017,Insurance,124500.0,North Carolina,south-east,S,Data Science and Research,Unknown
+Staff BI and Data Engineer,2.9,Affinity Solutions,"San Jose, CA","New York, NY",1998,Business Services,114000.0,California,west,S,BI and Visualization,Unknown
+Marketing Data Analyst,3.9,Citadel Federal Credit Union,"Exton, PA","Exton, PA",1937,Finance,49000.0,Pennsylvania,north-east,M,Data Analysis,Unknown
+Data Analyst,3.7,CALIBRE Systems,"Alexandria, VA","Alexandria, VA",1989,Information Technology,71000.0,Virginia,south-east,M,Data Analysis,M
+"Director - Data, Privacy and AI Governance",3.6,MassMutual,"Boston, MA","Springfield, MA",1851,Insurance,101000.0,Massachusetts,north-east,L,Machine Learning and AI,XL
+Information Security Data Analyst,3.7,Motorola Solutions,"Chicago, IL","Chicago, IL",1928,Information Technology,61000.0,Illinois,mid-west,L,Data Analysis,L
+Scientist Manufacturing - Kentucky BioProcessing,3.1,Reynolds American,"Owensboro, KY","Winston-Salem, NC",1875,Manufacturing,103500.0,Kentucky,south-east,L,Data Architecture and Modeling,XL
+Data Analytics Project Manager,3.6,MassMutual,"Springfield, MA","Springfield, MA",1851,Insurance,63000.0,Massachusetts,north-east,L,Leadership and Management,XL
+Consultant - Analytics Consulting,3.0,Infosys,"Hartford, CT","Bengaluru, India",1981,Information Technology,62500.0,Connecticut,north-east,L,Data Architecture and Modeling,XL
+Data Engineer,3.5,Alignment Healthcare,"Orange, CA","Orange, CA",2013,Health Care,94500.0,California,west,M,Data Engineering,Unknown
+Senior Scientist (Neuroscience),3.5,Sunovion,"Marlborough, MA","Marlborough, MA",2010,Biotech & Pharmaceuticals,154500.0,Massachusetts,north-east,S,Data Architecture and Modeling,L
+Machine Learning Engineer - Regulatory,3.7,Cboe Global Markets,"Lenexa, KS","Chicago, IL",1973,Finance,87000.0,Kansas,mid-west,M,Machine Learning and AI,M
+Data Engineer,3.2,Guidepoint,"New York, NY","New York, NY",2003,Business Services,64500.0,New York,north-east,M,Data Engineering,Unknown
+"Scientist, Bacteriology",2.1,Cerus Corporation,"Concord, CA","Concord, CA",Unknown,Biotech & Pharmaceuticals,111500.0,California,west,S,Data Architecture and Modeling,S
+"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,Takeda Pharmaceuticals,"Cambridge, MA","OSAKA, Japan",1781,Biotech & Pharmaceuticals,154500.0,Massachusetts,north-east,L,Data Engineering,XL
+Senior Data Scientist,4.4,Maven Wave Partners,"Chicago, IL","Chicago, IL",2008,Business Services,128500.0,Illinois,mid-west,S,Data Science and Research,M
+Clinical Laboratory Scientist,3.7,Vail Health,"Vail, CO","Vail, CO",1966,Health Care,65520.0,Colorado,west,M,Data Architecture and Modeling,M
+Senior Data Scientist - R&D Oncology,3.9,AstraZeneca,"New York, NY","Cambridge, United Kingdom",1913,Biotech & Pharmaceuticals,137000.0,New York,north-east,L,Data Science and Research,XL
+Data Engineer,4.0,Pinnacol Assurance,"Denver, CO","Denver, CO",1915,Insurance,99000.0,Colorado,west,M,Data Engineering,M
+Senior Data Scientist,4.4,MathWorks,"Natick, MA","Natick, MA",1984,Information Technology,139500.0,Massachusetts,north-east,S,Data Science and Research,L
+Data Engineer,3.4,MetroStar Systems,"Rockville, MD","Reston, VA",1999,Information Technology,109000.0,Maryland,north-east,S,Data Engineering,S
+"Director II, Data Science - GRM Actuarial",3.3,Liberty Mutual Insurance,"Chicago, IL","Boston, MA",1912,Insurance,254000.0,Illinois,mid-west,L,Data Science and Research,XL
+"Scientist, Molecular/Cellular Biologist",2.9,Audentes Therapeutics,"South San Francisco, CA","San Francisco, CA",2012,Biotech & Pharmaceuticals,73000.0,California,west,S,Data Architecture and Modeling,Unknown
+Scientist - Analytical Services,3.1,Reynolds American,"Winston-Salem, NC","Winston-Salem, NC",1875,Manufacturing,99500.0,North Carolina,south-east,L,Data Architecture and Modeling,XL
+Associate Data Analyst- Graduate Development Program,3.3,National Interstate,"Richfield, OH","Richfield, OH",1989,Insurance,45500.0,Ohio,mid-west,M,Data Analysis,M
+Sr. Data Engineer,4.5,Moser Consulting,"Indianapolis, IN","Indianapolis, IN",1996,Business Services,122500.0,Indiana,mid-west,S,Data Engineering,S
+Senior Insurance Data Scientist,3.9,TransUnion,"Chicago, IL","Chicago, IL",1968,Finance,140000.0,Illinois,mid-west,L,Data Science and Research,L
+Senior Data Science Systems Engineer,3.2,MITRE,"Hampton, VA","Bedford, MA",1958,Government,77500.0,Virginia,south-east,L,Data Science and Research,L
+Senior Scientist - Regulatory Submissions,3.1,Reynolds American,"Winston-Salem, NC","Winston-Salem, NC",1875,Manufacturing,117500.0,North Carolina,south-east,L,Data Architecture and Modeling,XL
+Scientist - Biomarker and Flow Cytometry,2.4,Crown Bioscience,"San Diego, CA","San Diego, CA",2006,Biotech & Pharmaceuticals,70500.0,California,west,M,Data Architecture and Modeling,M
+Revenue Analytics Manager,4.8,HOVER,"San Francisco, CA","San Francisco, CA",2011,Information Technology,61500.0,California,west,S,Leadership and Management,S
+"Associate Scientist, LC/MS Biologics",2.9,Q2 Solutions,"Ithaca, NY","Morrisville, NC",2015,Biotech & Pharmaceuticals,70000.0,New York,north-east,S,Data Architecture and Modeling,Unknown
+Sr. Scientist Method Development,2.9,Q2 Solutions,"Marietta, GA","Morrisville, NC",2015,Biotech & Pharmaceuticals,80000.0,Georgia,south-east,S,Data Architecture and Modeling,Unknown
+IT - Data Engineer II,3.4,Arbella Insurance,"Quincy, MA","Quincy, MA",1988,Insurance,90000.0,Massachusetts,north-east,S,Data Engineering,M
+"Project Scientist - Auton Lab, Robotics Institute",2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",1984,Education,73500.0,Pennsylvania,north-east,M,Data Architecture and Modeling,Unknown
+"Enterprise Architect, Data",3.6,MassMutual,"Boston, MA","Springfield, MA",1851,Insurance,129500.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+"Senior Manager, Epidemiologic Data Scientist",4.0,Pfizer,"New York, NY","New York, NY",1849,Biotech & Pharmaceuticals,167500.0,New York,north-east,L,Data Science and Research,XL
+Corporate Risk Data Analyst (SQL Based) - Milwaukee or,3.8,Associated Banc-Corp,"Green Bay, WI","Green Bay, WI",1870,Finance,60000.0,Wisconsin,mid-west,S,Data Analysis,L
+Lead Data Scientist,3.9,Zest AI,"Burbank, CA","Burbank, CA",2009,Finance,180000.0,California,west,S,Data Science and Research,M
+"Marketing Data Analyst, May 2020 Undergrad",3.8,Fareportal,"New York, NY","New York, NY",2002,Travel & Tourism,65000.0,New York,north-east,S,Data Analysis,L
+Senior Data Engineer,4.3,Genesys,"Durham, NC","Daly City, CA",1990,Information Technology,112500.0,North Carolina,south-east,L,Data Engineering,L
+Senior Data Analyst,1.9,Moda Operandi,"New York, NY","New York, NY",2010,Retail,87500.0,New York,north-east,S,Data Analysis,M
+Data Modeler - Data Solutions Engineer,3.3,Liberty Mutual Insurance,"Indianapolis, IN","Boston, MA",1912,Insurance,51500.0,Indiana,mid-west,L,Data Engineering,XL
+Associate Environmental Scientist - Wildlife Biologist,4.7,QK,"Clovis, CA","Visalia, CA",1972,Business Services,51000.0,California,west,S,Data Architecture and Modeling,S
+"Associate, Data Science, Internal Audit",3.1,Santander,"Boston, MA","Madrid, Spain",1856,Finance,62500.0,Massachusetts,north-east,L,Data Science and Research,XL
+Data Engineer,4.4,BRMi,"Chantilly, VA","Washington, DC",2004,Information Technology,85000.0,Virginia,south-east,S,Data Engineering,Unknown
+Senior LiDAR Data Scientist,3.9,Luminar Technologies,"Orlando, FL","Orlando, FL",2012,Information Technology,122000.0,Florida,south-east,S,Data Science and Research,Unknown
+Salesforce Analytics Consultant,3.9,"Emtec, Inc.","Chicago, IL","Jacksonville, FL",1995,Information Technology,66500.0,Illinois,mid-west,M,Data Architecture and Modeling,M
+"Technology-Minded, Data Professional Opportunities",4.7,Veterans United Home Loans,"Columbia, MO","Columbia, MO",2002,Finance,70500.0,Missouri,mid-west,S,Data Architecture and Modeling,Unknown
+Senior Data Engineer,4.7,Praetorian,"Austin, TX","Austin, TX",2010,Business Services,138500.0,Texas,south-west,S,Data Engineering,S
+Managing Data Scientist/ML Engineer,3.4,PA Consulting,"Boston, MA","London, United Kingdom",1943,Business Services,107500.0,Massachusetts,north-east,S,Data Science and Research,M
+"Scientist, Pharmacometrics",3.8,Agios Pharmaceuticals,"Cambridge, MA","Cambridge, MA",2008,Biotech & Pharmaceuticals,120500.0,Massachusetts,north-east,M,Data Architecture and Modeling,M
+Staff Scientist- Upstream PD,2.7,Advanced BioScience Laboratories,"Rockville, MD","Rockville, MD",1961,Biotech & Pharmaceuticals,81000.0,Maryland,north-east,S,Data Architecture and Modeling,S
+Scientist Manufacturing Pharma - Kentucky BioProcessing,3.1,Reynolds American,"Owensboro, KY","Winston-Salem, NC",1875,Manufacturing,103500.0,Kentucky,south-east,L,Data Architecture and Modeling,XL
+Lead Big Data Engineer,4.0,Glassdoor,"San Francisco, CA","Mill Valley, CA",2007,Information Technology,162000.0,California,west,S,Data Engineering,Unknown
+Product Engineer – Spatial Data Science and Statistical Analysis,3.5,Esri,"Redlands, CA","Redlands, CA",1969,Information Technology,68500.0,California,west,S,Data Science and Research,L
+Sr Software Engineer (Data Scientist),3.4,Assurant,"Westlake, OH","New York, NY",1978,Insurance,110500.0,Ohio,mid-west,L,Data Science and Research,L
+Sr. Data Engineer (ETL Developer),3.7,F&G,"Des Moines, IA","Des Moines, IA",Unknown,Insurance,115500.0,Iowa,mid-west,S,Data Engineering,M
+Senior Data Scientist Artificial Intelligence,3.8,PNNL,"Richland, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",80500.0,Washington,west,S,Data Science and Research,M
+Analytics - Business Assurance Data Analyst,4.6,GreatAmerica Financial Services,"Cedar Rapids, IA","Cedar Rapids, IA",1992,Finance,43000.0,Iowa,mid-west,M,Data Analysis,M
+"Associate Director/Director, Safety Scientist",4.4,Acceleron Pharma,"Cambridge, MA","Cambridge, MA",2003,Biotech & Pharmaceuticals,140000.0,Massachusetts,north-east,S,Leadership and Management,Unknown
+Data Analyst Senior,3.0,AmeriHealth Caritas,"Philadelphia, PA","Philadelphia, PA",1983,Insurance,66500.0,Pennsylvania,north-east,L,Data Analysis,L
+Lead Data Engineer (Python),4.7,Strategic Employment Partners,"San Francisco, CA","Los Angeles, CA",2006,Business Services,94500.0,California,west,S,Data Engineering,XS
+Senior Data Scientist 4 Artificial Intelligence,3.8,PNNL,"Seattle, WA","Richland, WA",1965,"Oil, Gas, Energy & Utilities",119000.0,Washington,west,S,Data Science and Research,M
+Medical Lab Scientist - MLT,3.2,Catholic Health Initiatives,"Omaha, NE","Englewood, CO",1996,Health Care,52000.0,Nebraska,mid-west,L,Data Architecture and Modeling,XL
+"Senior Operations Data Analyst, Call Center Operations",2.7,FLEETCOR,"Nashville, TN","Peachtree Corners, GA",2000,Finance,28080.0,Tennessee,south-east,L,Data Analysis,L
+"Director II, Data Science - GRS Predictive Analytics",3.3,Liberty Mutual Insurance,"Chicago, IL","Boston, MA",1912,Insurance,194500.0,Illinois,mid-west,L,Data Science and Research,XL
+RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,3.9,Southwest Research Institute,"San Antonio, TX","San Antonio, TX",1947,Business Services,71500.0,Texas,south-west,S,Data Science and Research,M
+Senior Scientist - Toxicologist - Product Integrity (Stewardship),3.1,Reynolds American,"Winston-Salem, NC","Winston-Salem, NC",1875,Manufacturing,74000.0,North Carolina,south-east,L,Data Architecture and Modeling,XL
+Systems Engineer II - Data Analyst,3.7,Raytheon,"Huntsville, AL","Waltham, MA",1922,Aerospace & Defense,62500.0,Alabama,south-east,L,Data Engineering,XL
+Senior Research Analytical Scientist-Non-Targeted Analysis,4.3,RTI International,"Durham, NC","Research Triangle Park, NC",1958,Business Services,65500.0,North Carolina,south-east,S,Data Science and Research,M
+Director Data Science,3.6,TRANZACT,"Fort Lee, NJ","Fort Lee, NJ",1989,Business Services,161500.0,New Jersey,north-east,S,Data Science and Research,Unknown
+Sr Data Analyst - IT,2.1,United BioSource,"Blue Bell, PA","Blue Bell, PA",2003,Biotech & Pharmaceuticals,72500.0,Pennsylvania,north-east,S,Data Analysis,M
+Senior Data Engineer,3.9,Figure Eight,"San Francisco, CA","San Francisco, CA",2008,Information Technology,139000.0,California,west,S,Data Engineering,S
+Senior Data Engineer,3.9,Tapjoy,"San Francisco, CA","San Francisco, CA",2007,Information Technology,136500.0,California,west,S,Data Engineering,S
+Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,3.8,Fareportal,"New York, NY","New York, NY",2002,Travel & Tourism,74500.0,New York,north-east,S,Data Science and Research,L
+Senior Scientist - Biostatistician,3.1,Reynolds American,"Winston-Salem, NC","Winston-Salem, NC",1875,Manufacturing,80500.0,North Carolina,south-east,L,Data Architecture and Modeling,XL
+Data Scientist,5.0,Royce Geospatial,"Springfield, VA","Arlington, VA",2014,Aerospace & Defense,101000.0,Virginia,south-east,S,Data Science and Research,S
+Data Scientist,3.6,Citi,"Jersey City, NJ","New York, NY",1812,Finance,116500.0,New Jersey,north-east,L,Data Science and Research,XL
+Principal Machine Learning Scientist,4.7,Sage Intacct,"San Francisco, CA","San Jose, CA",1999,Information Technology,232500.0,California,west,M,Machine Learning and AI,Unknown
+Data Scientist,3.5,Scale AI,"San Francisco, CA","San Francisco, CA",2016,Information Technology,120500.0,California,west,S,Data Science and Research,Unknown
+Data Scientist,2.7,Change Healthcare,"Emeryville, CA","Nashville, TN",2007,Information Technology,153000.0,California,west,L,Data Science and Research,Unknown
+Data Scientist,3.4,MZ,"Palo Alto, CA","Palo Alto, CA",2008,Information Technology,127000.0,California,west,M,Data Science and Research,Unknown
+Data Scientist,4.7,HG Insights,"Santa Barbara, CA","Santa Barbara, CA",2010,Information Technology,85500.0,California,west,S,Data Science and Research,Unknown
+Data Scientist,2.8,"1-800-FLOWERS.COM, Inc.","Carle Place, NY","Carle Place, NY",1976,Business Services,76500.0,New York,north-east,S,Data Science and Research,L
+Data Scientist,3.5,CBS Interactive,"New York, NY","San Francisco, CA",1992,Media,128000.0,New York,north-east,S,Data Science and Research,M
+Data Engineer,3.2,"Numeric, LLC","King of Prussia, PA","Chadds Ford, PA",Unknown,Business Services,91500.0,Pennsylvania,north-east,S,Data Engineering,S
+Staff Data Engineer,3.7,Samsung Research America,"Mountain View, CA","Mountain View, CA",1988,Information Technology,177000.0,California,west,S,Data Engineering,M
+Data Scientist,4.7,Systems & Technology Research,"Arlington, VA","Woburn, MA",2010,Aerospace & Defense,107000.0,Virginia,south-east,S,Data Science and Research,M
+Data Scientist,4.1,Netskope,"Santa Clara, CA","Santa Clara, CA",2012,Information Technology,154500.0,California,west,M,Data Science and Research,Unknown
+Data Scientist,4.0,Lorven Technologies Inc,"Santa Clara, CA","Plainsboro, NJ",Unknown,Accounting & Legal,113500.0,California,west,S,Data Science and Research,XS
+Data Scientist,2.5,CareDx,"Brisbane, CA","Brisbane, CA",Unknown,Biotech & Pharmaceuticals,143500.0,California,west,S,Data Science and Research,Unknown
+Data Scientist,3.9,Serigor Inc.,"San Francisco, CA","Baltimore, MD",Unknown,Information Technology,113500.0,California,west,S,Data Science and Research,XS
+Data Scientist,3.4,Leidos,"Springfield, VA","Reston, VA",1969,Aerospace & Defense,101500.0,Virginia,south-east,L,Data Science and Research,XL
+"Data Analyst, Performance Partnership",3.6,Beckman Coulter Diagnostics,"New York, NY","Brea, CA",1935,Manufacturing,73000.0,New York,north-east,L,Data Analysis,L
+Data Scientist,3.5,IHS Markit,"New York, NY","London, United Kingdom",2016,Business Services,80500.0,New York,north-east,L,Data Science and Research,L
+Data Scientist,3.8,ALIN,"New York, NY","Noida, India",Unknown,Information Technology,110500.0,New York,north-east,S,Data Science and Research,Unknown
+Data Scientist,3.5,e-IT Professionals Corp.,"Foster City, CA","Canton, MI",Unknown,Consumer Services,139500.0,California,west,S,Data Science and Research,S
+Data Scientist,4.8,TechProjects,"New York, NY","North Brunswick, NJ",2011,Information Technology,145500.0,New York,north-east,S,Data Science and Research,Unknown
+Data Scientist,4.0,Biz2Credit Inc,"New York, NY","New York, NY",2007,Finance,87000.0,New York,north-east,S,Data Science and Research,M
+Data Scientist,4.2,PeoplesBank,"Holyoke, MA","Holyoke, MA",1885,Finance,100500.0,Massachusetts,north-east,S,Data Science and Research,M
+Data Scientist Manager,3.8,Capgemini,"New York, NY","Paris, France",1967,Information Technology,147000.0,New York,north-east,L,Data Science and Research,XL
+Data Engineer,3.7,GNY Insurance Companies,"New York, NY","New York, NY",1914,Insurance,110500.0,New York,north-east,S,Data Engineering,M
+Data Scientist,4.6,"Conch Technologies, Inc","Waltham, MA","Memphis, TN",Unknown,Business Services,94000.0,Massachusetts,north-east,S,Data Science and Research,S
+Senior Data Scientist,4.3,Medidata Solutions,"New York, NY","New York, NY",1999,Information Technology,123500.0,New York,north-east,S,Data Science and Research,M
+Software Data Engineer - College,4.0,HP Inc.,"Corvallis, OR","Palo Alto, CA",1939,Information Technology,73000.0,Oregon,west,L,Data Engineering,Unknown
+Senior Data Scientist - Algorithms,3.9,Quartet Health,"New York, NY","New York, NY",2014,Information Technology,165000.0,New York,north-east,S,Data Science and Research,Unknown
+Data Analyst,3.1,Success Academy Charter Schools,"New York, NY","New York, NY",2006,Education,59500.0,New York,north-east,S,Data Analysis,M
+Data Analyst,3.6,AXION Healthcare Solutions,"New York, NY","New York, NY",1980,Health Care,66000.0,New York,north-east,S,Data Analysis,S
+Data Scientist,4.2,ExecOnline,"New York, NY","New York, NY",2012,Education,75500.0,New York,north-east,S,Data Science and Research,Unknown
+Machine Learning Engineer,4.0,Mteq,"Fort Belvoir, VA","Lorton, VA",1954,Aerospace & Defense,87000.0,Virginia,south-east,M,Machine Learning and AI,M
+Senior Data Scientist Oncology,3.9,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",1913,Biotech & Pharmaceuticals,140000.0,Maryland,north-east,L,Data Science and Research,XL
+Data Scientist,3.7,Brillient,"Silver Spring, MD","Reston, VA",2006,Information Technology,86000.0,Maryland,north-east,S,Data Science and Research,S
+Senior Data Scientist,4.4,Entefy,"Palo Alto, CA","Palo Alto, CA",2012,Information Technology,116500.0,California,west,S,Data Science and Research,Unknown
+Data Engineer,3.4,Trace3,"Houston, TX","Irvine, CA",2002,Information Technology,80000.0,Texas,south-west,M,Data Engineering,L
+Principal Data Scientist,3.7,Northrop Grumman,"San Jose, CA","Falls Church, VA",1939,Aerospace & Defense,173000.0,California,west,L,Data Science and Research,XL
+Data Engineer,3.5,Saama Technologies Inc,"Phoenix, AZ","Campbell, CA",1997,Biotech & Pharmaceuticals,68500.0,Arizona,south-west,M,Data Engineering,Unknown
+Data Scientist - Alpha Insights,4.4,Two Sigma,"New York, NY","New York, NY",2001,Finance,172000.0,New York,north-east,S,Data Science and Research,Unknown
+"Associate Principal Scientist, Pharmacogenomics",3.9,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",1913,Biotech & Pharmaceuticals,95000.0,Maryland,north-east,L,Data Architecture and Modeling,XL
+Data Scientist - Systems Engineering,3.2,MITRE,"Bedford, MA","Bedford, MA",1958,Government,69500.0,Massachusetts,north-east,L,Data Science and Research,L
+Data Scientist,4.0,Strategic Financial Solutions,"New York, NY","New York, NY",2007,Consumer Services,97500.0,New York,north-east,M,Data Science and Research,Unknown
+Data Scientist,3.4,"Remedy BPCI Partners, LLC.","New York, NY","Norwalk, CT",2011,Health Care,95000.0,New York,north-east,S,Data Science and Research,Unknown
+Principal Data Scientist,3.2,The Climate Corporation,"San Francisco, CA","San Francisco, CA",2006,Information Technology,194000.0,California,west,M,Data Science and Research,Unknown
+Data Scientist,3.5,Crossix Solutions,"New York, NY","New York, NY",2005,Business Services,104500.0,New York,north-east,S,Data Science and Research,Unknown
+Data Engineer - Consultant (Charlotte Based),4.2,Clarity Insights,"Charlotte, NC","Chicago, IL",2008,Information Technology,85500.0,North Carolina,south-east,S,Data Engineering,Unknown
+"Data Analyst 1, full-time contract worker for up to 12 months",4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT","Salt Lake City, UT",Unknown,Non-Profit,50000.0,Utah,west,L,Data Analysis,Unknown
+Data Engineer,3.1,NCSOFT,"Aliso Viejo, CA","Seoul, South Korea",1997,Media,113000.0,California,west,S,Data Engineering,XL
+"Scientist, Immuno-Oncology",3.9,GSK,"Cambridge, MA","Brentford, United Kingdom",1830,Biotech & Pharmaceuticals,90500.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+Senior Data Scientist,4.3,Factual,"Los Angeles, CA","Los Angeles, CA",2008,Information Technology,153000.0,California,west,S,Data Science and Research,Unknown
+Products Data Analyst II,3.3,TriNet,"Dublin, CA","Dublin, CA",1988,Business Services,123500.0,California,west,S,Data Analysis,L
+Lead Data Analyst,3.9,Signpost,"New York, NY","New York, NY",2010,Information Technology,47000.0,New York,north-east,S,Data Analysis,S
+Data Science Engineer - Mobile,4.0,Adobe,"San Jose, CA","San Jose, CA",1982,Information Technology,162000.0,California,west,L,Data Science and Research,L
+Senior Data Scientist,3.5,Sartorius,"Arvada, CO","Gottingen, Germany",1870,Biotech & Pharmaceuticals,133500.0,Colorado,west,L,Data Science and Research,L
+Senior Data Engineer,3.2,Equian LLC,"Franklin, TN","Indianapolis, IN",2004,Health Care,109000.0,Tennessee,south-east,S,Data Engineering,Unknown
+Machine Learning Engineer,3.2,Information Builders,"New York, NY","New York, NY",1975,Information Technology,125000.0,New York,north-east,S,Machine Learning and AI,Unknown
+"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",3.8,Novartis,"Cambridge, MA","Basel, Switzerland",1996,Biotech & Pharmaceuticals,106500.0,Massachusetts,north-east,L,Data Science and Research,XL
+IT Associate Data Analyst,3.7,The Hanover Insurance Group,"Worcester, MA","Worcester, MA",1852,Insurance,54000.0,Massachusetts,north-east,L,Data Analysis,L
+Clinical Data Analyst,3.0,Greenway Health,"Tampa, FL","Tampa, FL",1977,Information Technology,37500.0,Florida,south-east,S,Data Analysis,M
+Business Data Analyst,3.8,Fareportal,"New York, NY","New York, NY",2002,Travel & Tourism,53500.0,New York,north-east,S,Data Analysis,L
+Data Scientist - Sales,4.7,Confluent,"Mountain View, CA","Mountain View, CA",2014,Information Technology,168000.0,California,west,M,Data Science and Research,M
+Senior Data Analyst,3.9,Life360,"San Francisco, CA","San Francisco, CA",2008,Information Technology,138500.0,California,west,S,Data Analysis,Unknown
+"Principal, Data Science - Advanced Analytics",3.6,IQVIA,"Plymouth Meeting, PA","Durham, NC",2017,Biotech & Pharmaceuticals,111500.0,Pennsylvania,north-east,L,Data Science and Research,L
+Data Science Project Manager,3.6,MassMutual,"Boston, MA","Springfield, MA",1851,Insurance,68500.0,Massachusetts,north-east,L,Data Science and Research,XL
+"Sr Scientist, Immuno-Oncology - Oncology",3.9,GSK,"Cambridge, MA","Brentford, United Kingdom",1830,Biotech & Pharmaceuticals,84500.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+Senior Data Engineer,4.4,Eventbrite,"Nashville, TN","San Francisco, CA",2006,Information Technology,102500.0,Tennessee,south-east,S,Data Engineering,M
+Research Scientist – Security and Privacy,3.6,Riverside Research Institute,"Beavercreek, OH","Arlington, VA",1967,Government,93500.0,Ohio,mid-west,M,Data Science and Research,M
+Data Science Manager,3.2,"Numeric, LLC","Allentown, PA","Chadds Ford, PA",Unknown,Business Services,127500.0,Pennsylvania,north-east,S,Data Science and Research,S
+Data Analyst 2 (Missionary Department),4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT","Salt Lake City, UT",Unknown,Non-Profit,72000.0,Utah,west,L,Data Analysis,Unknown
+Supply Chain Data Analyst,3.1,Icon Health and Fitness,"Logan, UT","Logan, UT",1977,Manufacturing,47000.0,Utah,west,S,Data Analysis,M
+Data Engineer - ETL,3.8,Shipt,"Birmingham, AL","Birmingham, AL",2014,Consumer Services,65000.0,Alabama,south-east,M,Data Engineering,Unknown
+Senior Data Analyst,4.0,Novetta,"Herndon, VA","Mc Lean, VA",2012,Information Technology,94000.0,Virginia,south-east,M,Data Analysis,M
+Senior Data Engineer,4.0,Novetta,"Reston, VA","Mc Lean, VA",2012,Information Technology,97000.0,Virginia,south-east,M,Data Engineering,M
+Data Modeler (Analytical Systems),3.6,MassMutual,"Boston, MA","Springfield, MA",1851,Insurance,91500.0,Massachusetts,north-east,L,Data Architecture and Modeling,XL
+Data Scientist in Translational Medicine,3.8,Novartis,"Cambridge, MA","Basel, Switzerland",1996,Biotech & Pharmaceuticals,114500.0,Massachusetts,north-east,L,Data Science and Research,XL
+Product Manager/Data Evangelist,3.2,"Numeric, LLC","Phila, PA","Chadds Ford, PA",Unknown,Business Services,74000.0,Pennsylvania,north-east,S,Leadership and Management,S
+"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",3.8,Novartis,"Cambridge, MA","Basel, Switzerland",1996,Biotech & Pharmaceuticals,121000.0,Massachusetts,north-east,L,Data Science and Research,XL
+Senior Data Analyst/Scientist,4.5,Demandbase,"San Francisco, CA","San Francisco, CA",2006,Information Technology,121500.0,California,west,S,Data Analysis,M
+Data Engineer,3.4,IntraEdge,"Scottsdale, AZ","Chandler, AZ",2002,Information Technology,60500.0,Arizona,south-west,M,Data Engineering,M
+Big Data Engineer,3.3,Peraton,"Chantilly, VA","Herndon, VA",2017,Aerospace & Defense,118500.0,Virginia,south-east,S,Data Engineering,L
+Data Engineering Analyst,3.8,COUNTRY Financial,"Bloomington, IL","Bloomington, IL",1925,Insurance,58500.0,Illinois,mid-west,S,Data Engineering,L
+Manager of Data Science,3.9,Tapjoy,"San Francisco, CA","San Francisco, CA",2007,Information Technology,63500.0,California,west,S,Data Science and Research,S
+Software Engineer (Data Scientist/Software Engineer) - SISW - MG,4.1,Mentor Graphics,"Fremont, CA","Wilsonville, OR",1981,Information Technology,107000.0,California,west,L,Data Science and Research,L
+Data Engineer,3.7,Maxar Technologies,"Springfield, VA","Westminster, CO",Unknown,Aerospace & Defense,105500.0,Virginia,south-east,L,Data Engineering,L
+Data Engineer,2.8,ICW Group,"San Diego, CA","San Diego, CA",1972,Insurance,83000.0,California,west,M,Data Engineering,M
+Associate Research Scientist I (Protein Expression and Production),3.0,Exelixis,"Alameda, CA","Alameda, CA",1994,Biotech & Pharmaceuticals,87500.0,California,west,M,Data Science and Research,Unknown
+"Director, Precision Medicine Clinical Biomarker Scientist",4.0,Pfizer,"Cambridge, MA","New York, NY",1849,Biotech & Pharmaceuticals,172000.0,Massachusetts,north-east,L,Leadership and Management,XL
+Senior Formulations Scientist II,3.0,Exelixis,"Alameda, CA","Alameda, CA",1994,Biotech & Pharmaceuticals,100000.0,California,west,M,Data Architecture and Modeling,Unknown
+Data Science Manager,4.2,Grand Rounds,"San Francisco, CA","San Francisco, CA",2011,Health Care,221500.0,California,west,M,Data Science and Research,Unknown
+Data Engineer,3.5,"SPINS, LLC","Chicago, IL","Chicago, IL",1995,Business Services,95500.0,Illinois,mid-west,S,Data Engineering,M
+Senior Quantitative Analyst,3.3,DTCC,"Jersey City, NJ","New York, NY",1973,Finance,173000.0,New Jersey,north-east,S,Data Analysis,L
+Principal Data Scientist,3.9,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",1913,Biotech & Pharmaceuticals,147500.0,Maryland,north-east,L,Data Science and Research,XL
+Data Engineer,3.7,Carilion Clinic,"Roanoke, VA","Roanoke, VA",1899,Health Care,81000.0,Virginia,south-east,L,Data Engineering,L
+Sr. Data Analyst,3.2,DoubleVerify,"New York, NY","New York, NY",2008,Information Technology,83000.0,New York,north-east,S,Data Analysis,Unknown
+Research Scientist or Senior Research Scientist - Computer Vision,4.6,Mitsubishi Electric Research Labs,"Cambridge, MA","Cambridge, MA",1991,Business Services,121000.0,Massachusetts,north-east,S,Data Science and Research,S
+Data Analyst Chemist - Quality System Contractor,2.2,"Rodan and Fields, LLC","San Francisco, CA","San Francisco, CA",2002,Retail,85500.0,California,west,M,Data Analysis,Unknown
+Research Scientist / Principal Research Scientist - Multiphysical Systems,4.6,Mitsubishi Electric Research Labs,"Cambridge, MA","Cambridge, MA",1991,Business Services,167500.0,Massachusetts,north-east,S,Data Science and Research,S
+"Research Scientist, Machine Learning Department",2.6,Software Engineering Institute,"Pittsburgh, PA","Pittsburgh, PA",1984,Education,107500.0,Pennsylvania,north-east,M,Data Science and Research,Unknown
+Foundational Community Supports Data Analyst,3.4,DESC,"Seattle, WA","Seattle, WA",1979,Non-Profit,44500.0,Washington,west,M,Data Analysis,S
+"Senior Health Data Analyst, Star Ratings",3.3,Johns Hopkins Health Care,"Glen Burnie, MD","Baltimore, MD",1889,Health Care,107500.0,Maryland,north-east,S,Data Analysis,M
+Sr. Data Analyst,3.7,Community Behavioral Health,"Philadelphia, PA","Phila, PA",1994,Health Care,69500.0,Pennsylvania,north-east,S,Data Analysis,M
+"Senior Engineer, Data Management Engineering",3.5,Western Digital,"Milpitas, CA","San Jose, CA",1970,Information Technology,98500.0,California,west,L,Data Engineering,XL
+Quality Control Scientist III- Analytical Development,2.7,Advanced BioScience Laboratories,"Rockville, MD","Rockville, MD",1961,Biotech & Pharmaceuticals,80500.0,Maryland,north-east,S,Data Architecture and Modeling,S
+"Clinical Scientist, Clinical Development",3.8,FORMA THERAPEUTICS,"Watertown, MA","Watertown, MA",2008,Biotech & Pharmaceuticals,76960.0,Massachusetts,north-east,S,Data Architecture and Modeling,S
+Software Engineer Staff Scientist: Human Language Technologies,3.7,Raytheon,"Cambridge, MD","Waltham, MA",1922,Aerospace & Defense,99000.0,Maryland,north-east,L,Data Engineering,XL
+"Manager, Safety Scientist, Medical Safety & Risk Management",3.8,Agios Pharmaceuticals,"Cambridge, MA","Cambridge, MA",2008,Biotech & Pharmaceuticals,96500.0,Massachusetts,north-east,M,Leadership and Management,M
+"Assistant Director/Director, Office of Data Science",3.3,Liberty Mutual Insurance,"Boston, MA","Boston, MA",1912,Insurance,53000.0,Massachusetts,north-east,L,Data Science and Research,XL
+Sr. Data Engineer | Big Data SaaS Pipeline,2.7,Bridg,"Los Angeles, CA","Los Angeles, CA",2011,Information Technology,103000.0,California,west,S,Data Engineering,Unknown
+Scientist - CVRM Metabolism - in vivo pharmacology,3.9,AstraZeneca,"Gaithersburg, MD","Cambridge, United Kingdom",1913,Biotech & Pharmaceuticals,92000.0,Maryland,north-east,L,Data Architecture and Modeling,XL
+Data Scientist,3.6,TRANZACT,"Fort Lee, NJ","Fort Lee, NJ",1989,Business Services,114000.0,New Jersey,north-east,S,Data Science and Research,Unknown
+Data Scientist,3.5,Charter Spectrum,"Maryland Heights, MO","North Salt Lake, UT",Unknown,Education,96000.0,Missouri,mid-west,S,Data Science and Research,S
+Data Scientist,4.3,Solugenix Corporation,"Phoenix, AZ","Brea, CA",1969,Information Technology,69500.0,Arizona,south-west,S,Data Science and Research,M
+Data Scientist,2.6,West Coast University,"Irvine, CA","Irvine, CA",1997,Education,121000.0,California,west,L,Data Science and Research,Unknown
+Data Scientist (Warehouse Automation),3.8,SoftBank Robotics,"San Francisco, CA","Paris, France",2005,Manufacturing,103000.0,California,west,S,Data Science and Research,S
+Jr. Data Scientist,3.2,MITRE,"McLean, VA","Bedford, MA",1958,Government,106500.0,Virginia,south-east,L,Data Science and Research,L
+Data Architect / Data Modeler,4.3,Medidata Solutions,"New York, NY","New York, NY",1999,Information Technology,86500.0,New York,north-east,S,Data Architecture and Modeling,M
+Data Scientist,3.4,"DatamanUSA, LLC","Olympia, WA","Centennial, CO",Unknown,Information Technology,89000.0,Washington,west,S,Data Science and Research,S
+"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",4.0,23andMe,"South San Francisco, CA","Sunnyvale, CA",2006,Biotech & Pharmaceuticals,92000.0,California,west,M,Data Architecture and Modeling,Unknown
+Machine Learning Engineer (NLP),4.1,CK-12 Foundation,"Palo Alto, CA","Palo Alto, CA",2007,Education,111000.0,California,west,S,Machine Learning and AI,Unknown
+Data Engineer,3.9,Fivestars,"San Francisco, CA","San Francisco, CA",2011,Information Technology,87500.0,California,west,S,Data Engineering,M
