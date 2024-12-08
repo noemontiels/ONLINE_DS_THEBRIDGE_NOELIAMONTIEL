@@ -120,11 +120,14 @@ def plot_bar_with_values(data, cat_cols, num_col, order_func = None, palette = '
     for col in cat_cols:
         plt.figure(figsize = figsize)
         
-        # Determinar el orden de las categorías usando la función personalizada
-        if order_func:
+        if isinstance(order_func, list):
+            order = order_func
+
+        elif order_func:
+            # Default ordering by frequency if no function is provided
             order = order_func(data, col, num_col)
         else:
-            # Default ordering by frequency if no function is provided
+            # Default ordering by frequency if no function or list is provided
             order = data[col].value_counts().index.tolist()[:10]
         
         ax = sns.barplot(x = col, y = num_col, data = data, errorbar = None, palette = palette, order = order)
