@@ -44,7 +44,7 @@ The main objective of this project is to use Machine Learning techniques to clas
   
 4. Implementation of the model
 
-  - Developed a pipeline for automated property classification.
+  - Developed a model for automated property classification.
   - ROI prediction for new properties based on historical patterns.
 
 ## Key findings <a name="id3"></a>
