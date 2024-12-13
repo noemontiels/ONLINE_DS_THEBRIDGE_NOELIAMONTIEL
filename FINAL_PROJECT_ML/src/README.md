@@ -40,7 +40,7 @@ The main objective of this project is to use Machine Learning techniques to clas
 3. Model training and evaluation
 
   - Algorithms tested: Logistic Regression, Decision Trees, Random Forest.
-  - Final Model: Random Forest, achieving a 97% accuracy.
+  - Final Model: Logistic Regression, achieving a 97% accuracy.
   
 4. Implementation of the model
 
@@ -51,13 +51,13 @@ The main objective of this project is to use Machine Learning techniques to clas
 
 **Performance of the model**
 
-The Random Forest model achieved:
+The Logistic Regression model achieved:
 
 - **Overall Accuracy**: 97%.
 - **Precision by category**:
   - Highly Profitable: 94%
   - Somewhat Profitable: 97%
-  - Not Profitable: 92%
+  - Not Profitable: 94%
 
  ### Business impact
 
